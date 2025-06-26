@@ -10,4 +10,5 @@
 </a>
 <br>
 ## TELOS
+<br>
 <a href="https://github.com/gandalf279/gandalf279/telos.md">My TELOS</a>
