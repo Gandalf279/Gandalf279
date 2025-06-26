@@ -15,4 +15,4 @@
 ## TELOS
 
 <br>
-<a href="https://github.com/gandalf279/gandalf279/telos.md">My TELOS</a>
+<a href="https://github.com/Gandalf279/Gandalf279/blob/main/telos.md">My TELOS</a>
