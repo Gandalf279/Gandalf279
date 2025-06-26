@@ -7,6 +7,8 @@
   <img height=300 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gandalf279&layout=pie&theme=neon" />
 </a>
 <br>
+<br>
+<br>
 # TELOS
 <br>
 <a href="https://github.com/gandalf279/gandalf279/telos.md">My TELOS</a>
