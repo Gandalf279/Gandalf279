@@ -59,7 +59,7 @@ Other sections that aren't those core sections are additional context to support
 
 - I1: Schools should teach coding earlier and in more hands-on ways
 - I2: TUIs are better than GUIs
-- I3: All APIs should follow some sort of standard.
+- I3: All APIs should follow some sort of standard for data structure
 
 ## PREDICTIONS
 
