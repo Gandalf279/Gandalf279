@@ -8,6 +8,10 @@
 <a href="https://github.com/anuraghazra/github-readme-stats">
   <img height=300 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gandalf279&layout=pie&theme=neon&bg_color=00000000" />
 </a>
+<a href="https://github.com/anuraghazra/github-readme-stats">
+  <img height=300 align="center"
+src="https://github-readme-stats.vercel.app/api/wakatime?username=gandalf279&theme=neon&bg_color=00000000 />
+</a>
 <br>
 <br>
 <br>
