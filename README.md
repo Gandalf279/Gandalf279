@@ -16,8 +16,3 @@ src="https://github-readme-stats.vercel.app/api/wakatime?username=gandalf279&the
 <br>
 <br>
 <br>
-
-## TELOS
-
-<br>
-<a href="https://github.com/Gandalf279/Gandalf279/blob/main/telos.md">My TELOS</a>
